@@ -3,9 +3,7 @@
 Code for the Randomized Gradient Descent Ascent, AISTATS 2022 (Othmane Sebbouh, Marco Cuturi, Marco Cuturi).
 Based on haven-ai by Issam Laradji.
 
-It is possible to either:
-- run the experiments from scratch, or
-- directly generate the figures from pre-computed runs in the ``precomputed_runs_and_figures`` folder.
+It is possible to either run the experiments from scratch, or see the figures in the ``precomputed_figures`` folder.
 
 ## Running the experiments from scratch
 
